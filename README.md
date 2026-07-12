@@ -603,7 +603,7 @@ Successfully completed Diploma in Information Technology with hands-on experienc
 </div>
 
 ---
-
+<!--
 # Certifications
 
 ## AWS
@@ -648,11 +648,11 @@ Successfully completed Diploma in Information Technology with hands-on experienc
 
 ## NPTEL
 
-<p>
+ <p>
 
 <img src="https://img.shields.io/badge/NPTEL-Continuous%20Learning-7C3AED?style=for-the-badge"/>
 
-</p>
+</p> -->
 
 ---
 
@@ -660,20 +660,20 @@ Successfully completed Diploma in Information Technology with hands-on experienc
 
 <p align="center">
 
-<a href="https://leetcode.com/USERNAME">
+<a href="https://leetcode.com/u/visrut6162/">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/USERNAME">
+<a href="https://www.geeksforgeeks.org/profile/jajadiyavi6dtl">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/USERNAME">
+<a href="https://www.hackerrank.com/profile/d25aiml084">
 <img src="https://img.shields.io/badge/HackerRank-Competitive%20Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
-<a href="https://www.codechef.com/users/USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<!-- <a href="https://www.codechef.com/users/USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> -->
 </a>
 
 </p>
@@ -907,11 +907,11 @@ open_to:
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:jajadiyavisrut7272@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/visrut-jajadiya">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -919,7 +919,7 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-visrut.vercel.app">
+<a href="https://vercel.com/visruts-projects-fcdd1f10">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
