@@ -778,7 +778,7 @@ Successfully completed Diploma in Information Technology with hands-on experienc
 
 <p align="center">
 
-<img src="https://ghchart.rshah.org/7C3AED/Jajadiyavisrut" alt="GitHub Contribution Calendar"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jajadiyavisrut&theme=tokyonight"/>
 
 </p>
 
